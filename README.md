@@ -1,7 +1,13 @@
 # Organisation
 
-Embrace Clarity is an open decentralised organisation. A work in progress of the organisation's map is available on [GraphCommons](https://graphcommons.com/graphs/3090cc3d-533f-4e30-8e2d-3ccd72102b5f)
+Embrace Clarity is an open decentralised organisation. A work in progress of the organisation's map is available on
+
+## Current Core Members
+
+[Dimo Trifonov](https://twitter.com/denull)
+[Devine Lu Linvega](https://twitter.com/neauoire)
+[Ana Kirova](http://twitter.com/anafiki)
 
 # Task managment
 
-For now we are going to use Github Issues and [Zenhub](http://zenhub.com) until [Colony](https://colony.io) is live.
+For now we are going to use Github Issues for each repo and [Zenhub](http://zenhub.com) until [Colony](https://colony.io) is live.
