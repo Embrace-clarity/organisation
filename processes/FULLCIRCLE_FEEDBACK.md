@@ -1,7 +1,7 @@
 # Full-Circle Feedback
 ## Intro
 
-The Full-circle feedback process allows all team members to change Feeld for the better. It's about collecting feedback and advice from everyone within the organisation.
+The Full-circle feedback process allows all team members to change EC for the better. It's about collecting feedback and advice from everyone within the organisation.
 
 > Remember, the Full-circle feedback process is what gives you the authority to do something. If you don’t follow it, you have no authority to take that action.
 
@@ -11,10 +11,10 @@ The Full-circle feedback process allows all team members to change Feeld for the
 There is a strong presumption that an Full-circle feedback needs to be agreed before you take action. If it's possible for us for people to 'do first and ask permission later', we remove the important 'peer review' part of the Full-circle feedback process where your teammates give feedback on an action. So when thinking about these Proposals, keep in mind that if the Full-circle feedback is for something you've done already, such as an item you've purchased or a retrospective salary increase you might like to make, it can be unlikely to be accepted by the team.
 
 *Proposals aren't requests*
-Proposals are designed to gather feedback on your idea to improve something at Feeld and help you make an informed decision. They aren't a tool for requesting things from other or the organisation. At the end you decide if you should go forward with your proposal.
+Proposals are designed to gather feedback on your idea to improve something at EC and help you make an informed decision. They aren't a tool for requesting things from other or the organisation. At the end you decide if you should go forward with your proposal.
 
 *Discussion and implementation in private is forbidden*
-It's against Feeld's transparency policy to discuss and implement ideas that will impact the whole company. Such proposals can only happen publicly by acquiring feedback from all parts of the organisation.
+It's against EC's transparency policy to discuss and implement ideas that will impact the whole company. Such proposals can only happen publicly by acquiring feedback from all parts of the organisation.
 
 *Sharing privately for proofreading or general feedback is fine*
 Sometimes we need an extra eye and that's fine as long as it's not a secretive proposal.
@@ -25,8 +25,10 @@ Sometimes we need an extra eye and that's fine as long as it's not a secretive p
 
 In this, you should outline the following things. The more significant your action is, the more thorough the proposal must be. Use your judgement.
 
- 1. Follow the Template in
- 2. Place it in the according folder in Proposals
+ 1. Follow the Template [PROPOSAL_TEMPLATE](https://github.com/Embrace-clarity/organisation/blob/master/proposals/PROPOSAL_TEMPLATE.md)
+ 2. Place it in the according folder in [proposals](https://github.com/Embrace-clarity/organisation/blob/master/proposals)
+ 3. Create a branch once you are done with the proposals
+ 4. Create a Pull Request
 
 ### 2. Share the proposal with everyone
 
@@ -44,7 +46,7 @@ The more significant your decision (higher costs, or potential effects), the gre
 ### Integrate valid objections
 **The proposer must integrate any valid objections. If they cannot, the proposal will be blocked.**
 
-Example: "If we drop Slack for Twist all of our bots will stop working and Community Voice team won't be able to do debug issues and help members"
+Example: "If we drop Github for Twist all of our bots will stop working and Community Voice team won't be able to do debug issues and help members"
 
 A valid objection can’t be ignored – it must be resolved and integrated. This means that communication will be critical. The proposer and the objector will try to overcome the objection and find a solution. If they can achieve this and agree that the objection has been overcome, then the proposal will pass. If they cannot come to an agreement as to a solution, the proposal won’t be allowed to pass.
 
@@ -64,5 +66,5 @@ Everyone involved is obligated to monitor if the proposal is doing harm or is no
 Blocking a proposal is a safety-mechanism to preserve the health of the organisation.
 
 **Blocking rules**
-- Members can block a proposal if they believe it would cause irreparable harm, or move Feeld backwards. Particularly if it would be difficult to revert this action and cure the harm caused.
+- Members can block a proposal if they believe it would cause irreparable harm, or move EC backwards. Particularly if it would be difficult to revert this action and cure the harm caused.
 - Proposal can be blocked if it is dependent on other decisions which are not yet taken.
