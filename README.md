@@ -4,9 +4,12 @@ Embrace Clarity is an open decentralised organisation. A work in progress of the
 
 ## Current Core Members
 
-- [Dimo Trifonov](https://twitter.com/denull)
+- [Dimo Trifonov](https://github.com/Embrace-clarity/organisation/blob/master/members/DIMOT.md)
 - [Devine Lu Linvega](https://twitter.com/neauoire)
 - [Ana Kirova](http://twitter.com/anafiki)
+
+[Full list of members](https://github.com/Embrace-clarity/organisation/tree/master/members)
+
 
 # Task managment
 
