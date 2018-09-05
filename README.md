@@ -1,12 +1,12 @@
 # Organisation
 
-Embrace Clarity is an open decentralised organisation. A work in progress of the organisation's map is available on
+Embrace Clarity is an open decentralised organisation. A work in progress of the organisation's map is available on [Graphcommons]()(keep in mind that the map might be outdated).
 
 ## Current Core Members
 
-[Dimo Trifonov](https://twitter.com/denull)
-[Devine Lu Linvega](https://twitter.com/neauoire)
-[Ana Kirova](http://twitter.com/anafiki)
+- [Dimo Trifonov](https://twitter.com/denull)
+- [Devine Lu Linvega](https://twitter.com/neauoire)
+- [Ana Kirova](http://twitter.com/anafiki)
 
 # Task managment
 
