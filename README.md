@@ -7,10 +7,8 @@ Embrace Clarity is an open decentralised organisation. A work in progress of the
 - [Dimo Trifonov](https://github.com/Embrace-clarity/organisation/blob/master/members/DIMOT.md)
 - [Devine Lu Linvega](https://twitter.com/neauoire)
 - [Ana Kirova](http://twitter.com/anafiki)
+- [Apply as Core Member](https://github.com/Embrace-clarity/organisation/tree/master/core_member_applicants)
 
-[Full list of members](https://github.com/Embrace-clarity/organisation/tree/master/members)
-
-
-# Task managment
+## Task managment
 
 For now we are going to use Github Issues for each repo and [Zenhub](http://zenhub.com) until [Colony](https://colony.io) is live.
